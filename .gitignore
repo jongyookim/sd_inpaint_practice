@@ -1,0 +1,8 @@
+*.pyc
+.DS_Store
+.vscode/
+.git/
+.azureml/
+__pycache__/
+result/
+results/
